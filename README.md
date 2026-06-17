@@ -33,9 +33,9 @@ A personal Telegram bot that acts as a middleman for communication. When users m
 
 ### 👨‍💻 Developer
 Developed by **Omar Luay**.
-* 💬 Telegram: [@Asteroid404](https://t.me/Asteroid404)
-* 📸 Instagram: [@42l6](https://www.instagram.com/42l6)
-* 🐙 GitHub: [omarluay](https://github.com/omarluay)
+
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Asteroid404)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/42l6)
 
 ---
 
@@ -63,6 +63,6 @@ Developed by **Omar Luay**.
 
 ### 👨‍💻 المطور والتواصل
 تم التطوير بواسطة **عمر لؤي (Omar Luay)**.
-* 💬 للتواصل عبر تليجرام: [@Asteroid404](https://t.me/Asteroid404)
-* 📸 انستغرام: [@42l6](https://www.instagram.com/42l6)
-* 🐙 حساب GitHub: [omarluay](https://github.com/omarluay)
+
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Asteroid404)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/42l6)
